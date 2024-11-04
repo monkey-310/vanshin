@@ -1,9 +1,8 @@
 {
   "name": "portfolio",
-  "homepage": "https://hamishw.com",
-  "description": "Portfolio site for Hamish Williams",
-  "repository": "https://github.com/HamishMW/portfolio.git",
-  "author": "Hamish Williams",
+  "description": "Portfolio site for VanShin",
+  "repository": "https://github.com/monkey-310/vanshin.git",
+  "author": "VanShin",
   "sideEffects": false,
   "type": "module",
   "scripts": {
