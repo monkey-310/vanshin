@@ -1,26 +1,10 @@
-import sliceAnnotationLarge from '~/assets/slice-annotation-large.png';
-import sliceAnnotationPlaceholder from '~/assets/slice-annotation-placeholder.png';
-import sliceAnnotation from '~/assets/slice-annotation.png';
+
 import vatgiaAppLarge from '~/assets/vatgia-large.jpg';
 import vatgiaAppPlaceholder from '~/assets/slice-app-placeholder.jpg';
 import vatgiaApp from '~/assets/vatgia.jpg';
-import sliceBackgroundBarLarge from '~/assets/slice-background-bar-large.jpg';
-import sliceBackgroundBarPlaceholder from '~/assets/slice-background-bar-placeholder.jpg';
-import sliceBackgroundBar from '~/assets/slice-background-bar.jpg';
 import sliceBackgroundLarge from '~/assets/slice-background-large.jpg';
 import sliceBackgroundPlaceholder from '~/assets/slice-background-placeholder.jpg';
 import sliceBackground from '~/assets/slice-background.jpg';
-import sliceIrlPlaceholder from '~/assets/slice-irl-placeholder.jpg';
-import sliceIrl from '~/assets/slice-irl.jpg';
-import sliceSidebarAnnotationsLarge from '~/assets/slice-sidebar-annotations-large.png';
-import sliceSidebarAnnotationsPlaceholder from '~/assets/slice-sidebar-annotations-placeholder.png';
-import sliceSidebarAnnotations from '~/assets/slice-sidebar-annotations.png';
-import sliceSidebarLayersLarge from '~/assets/slice-sidebar-layers-large.png';
-import sliceSidebarLayersPlaceholder from '~/assets/slice-sidebar-layers-placeholder.png';
-import sliceSidebarLayers from '~/assets/slice-sidebar-layers.png';
-import sliceSlidesLarge from '~/assets/slice-slides-large.jpg';
-import sliceSlidesPlaceholder from '~/assets/slice-slides-placeholder.jpg';
-import sliceSlides from '~/assets/slice-slides.jpg';
 import { Footer } from '~/components/footer';
 import { Image } from '~/components/image';
 import {
