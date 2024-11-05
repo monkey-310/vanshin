@@ -1,5 +1,6 @@
 {
   "name": "Van Shin",
+  "email": "vanshin310@gmail.com",
   "role": "Software Engineer",
-  "disciplines": ["JavaScript", "TypeScript", "React", "React Native"]
+  "disciplines": ["JavaScript", "TypeScript", "React Native" , "React"]
 }

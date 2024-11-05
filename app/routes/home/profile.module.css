@@ -36,7 +36,7 @@
 
 .content {
   display: grid;
-  grid-template-columns: 1fr 50%;
+  grid-template-columns: 1fr 20%;
   grid-column-gap: var(--space2XL);
   max-width: var(--maxWidthL);
   width: 100%;
